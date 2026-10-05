@@ -26,7 +26,7 @@ O jar sai em `build/libs/`. (Se preferir o wrapper: `gradle wrapper --gradle-ver
 ## Se algo nao funcionar
 
 Abra `logs/latest.log` e procure por `sheathtoggle`. O mod escreve la qual nome nao encontrou
-no Epic Fight / Weapons of Miracles. Mande essa linha (ou o log do Actions, se o build falhar).
+no Epic Fight / Weapons of Miracles.
 
 ## Notas
 
